@@ -1,3 +1,5 @@
+# Extend the above program to sort the array and then find the 2nd largest and the 2nd smallest element.
+
 echo "Enter number of element you want to insert in array : "
 read n
 echo "Enter array elements :"
