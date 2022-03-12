@@ -1,3 +1,5 @@
+# Write a Program to show Sum of three Integer adds to ZERO
+
 echo "Enter number of element you want to insert in array : "
 read n
 echo "Enter array elements :"
