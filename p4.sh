@@ -21,7 +21,7 @@ do
 			sum=$(($no1+$no2+$no3))
 			if(($sum==0))
 			then
-				array+=($i $j $k)
+				array+=($no1 $no2 $no3)
 			fi
 		done
 	done
